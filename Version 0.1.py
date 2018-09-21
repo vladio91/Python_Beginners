@@ -32,4 +32,4 @@ def Check():
 Check()
 
 
-print("Version 0.1 Alpha")
+print("Version 0.1.1 Alpha")
